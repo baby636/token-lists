@@ -38,7 +38,7 @@
   },
   "module": "dist/token-lists.esm.js",
   "devDependencies": {
-    "ajv": "^6.12.2",
+    "ajv": "^8.1.0",
     "husky": "^4.2.5",
     "tsdx": "^0.14.0",
     "tslib": "^2.0.0",
